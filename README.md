@@ -63,3 +63,5 @@ conda env create -f environment.yml
 conda activate defcon
 
 mkdocs serve
+mkdocs gh-deploy
+https://neumj.github.io/nautilis/
