@@ -18,6 +18,8 @@ Great dive. Entered at Pirates Cove in sandy bottom and moved toward the rocky a
 
 #### Dive Details 
 ##### [Dive Video](https://www.youtube.com/watch?v=az98IdRxY3U&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/az98IdRxY3U?si=hLHIbW1oNAsdbVss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 | | |
 |-----|-----|
