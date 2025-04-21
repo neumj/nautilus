@@ -15,9 +15,9 @@ tags:
 
 Great dive. Entered at Pirates Cove in sandy bottom and moved toward the rocky aggregates and kelp of Long Point. Forgot to take a bearing before descedning in poor visibility in Pirates Cove. Headed the wrong direction before correcting course. Very cold on the bottom, should have used a hood. Consuming air like a PIG. Tobias found a pole-spear on the bottom in 10m just as we headed out. As we approached Long Point, saw a large Spider Crab, many fish. Moving north, spotted an octopus under attack by several fish! Insane wild-kingdom moment. The fish eased their attack as we approached and the octopus escaped under some kelp. Relocated the injured octopus to rock-sand interface. Ended the dive in kelp forest, always awesome. Tobias' fin failed causing us to abort the dive.  
 
-[Dive Video](https://www.youtube.com/watch?v=az98IdRxY3U&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)
 
 #### Dive Details 
+##### [Dive Video](https://www.youtube.com/watch?v=az98IdRxY3U&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)
 
 | | |
 |-----|-----|
