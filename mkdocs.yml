@@ -63,6 +63,7 @@ extra:
 nav:
     - Home: index.md
     - MJN:
+      - Dive 139 - Monarch Beach: mjn/139-monarch-beach.md
       - Dive 138 - Long Point: mjn/138-long-point.md
       - Dive 137 - Avalon Steps Beach: mjn/137-avalon-steps-beach.md
       - Dive 136 - Ripper's Cove: mjn/136-rippers-cove.md
