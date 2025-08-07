@@ -16,6 +16,8 @@ Challenging dive, however, Tobias speared his first fish! Initially tried to div
 
 
 #### Dive Details 
+##### [Dive Video](https://www.youtube.com/watch?v=xmjx126PUHY&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xmjx126PUHY?si=7Q2rSjlOEEvHiXgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | | |
 |-----|-----|
