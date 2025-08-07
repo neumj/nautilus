@@ -63,6 +63,9 @@ extra:
 nav:
     - Home: index.md
     - MJN:
+      - Dive 142 - Africa: mjn/142-africa.md
+      - Dive 141 - Rusty Shed: mjn/141-rusty-shed.md
+      - Dive 140 - Empire Reef: mjn/140-empire-reef.md
       - Dive 139 - Monarch Beach: mjn/139-monarch-beach.md
       - Dive 138 - Long Point: mjn/138-long-point.md
       - Dive 137 - Avalon Steps Beach: mjn/137-avalon-steps-beach.md
