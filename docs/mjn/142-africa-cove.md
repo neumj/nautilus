@@ -4,30 +4,30 @@ tags:
     - California
     - Catalina
 ---
-# Dive 141: Rusty Shed, Catalina, CA, USA
-#### Date: 8 August 2025
-#### Latitude: 33°26'03.4"N  
-#### Longitude: 118°27'16.2"W
-#### Dive Number: 141
+# Dive 142: Africa Cove, Catalina, CA, USA
+#### Date: 3 August 2025
+#### Latitude: 33°27'23.0"N 
+#### Longitude: 118°30'43.3"W
+#### Dive Number: 142
 #### Overview
 ##### Type: Ocean, Boat Dive (SunDiver)
 ##### Partner: Asher N.
 
-Kelp Forest dive. Heavy, stringy, kelp that was, at times, hard to navigate. Nice dive with good visibilty and many large Sheepshead and Calico Bass. Very large Calico at the end of the dive. Octopus. Site located in the Blue Cavern MPA. Asher handled the kelp extremely well even as it was snagging and impeding his motion.   
+Kelp Forest dive. Thick, well channeled kelp. Classic, beautiful kelp dive. Nice dive with good visibilty and many large fish. Lobsters. Octopus. Asher handled the kelp like a pro and demonstrated some excellent buoyancy control. 
 
 Slightly overweighted.
 
-Surface Interval: 1h 8min
+Surface Interval: 2h 4min
 
 #### Dive Details 
 
 | | |
 |-----|-----|
-| Maximum Depth:     | 17.5 meters |
-| Bottom Time:       | 25 minutes | 
+| Maximum Depth:     | 8.3 meters |
+| Bottom Time:       | 36 minutes | 
 | Dive Computer:     | Yes | <!--Yes, No-->
 | Starting Pressure: | 180 bar | 
-| Ending Pressure:   | 75 bar | 
+| Ending Pressure:   | 100 bar | 
 
 #### Conditions
 
@@ -48,4 +48,4 @@ Surface Interval: 1h 8min
 |-----|-----|
 | Tank:    | Aluminum 80 |
 | Weight:  | 24 lbs | 
-| Wetsuit: | Farmer John, Spring Shorty, Booties, Gloves | 
+| Wetsuit: | Farmer John, Spring Shorty, Booties, Gloves. | 

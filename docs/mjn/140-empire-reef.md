@@ -2,43 +2,43 @@
 tags:
     - United States
     - California
+    - Catalina
 ---
-# Dive 139: Monarch Beach, Dana Point, CA, USA
-#### Date: 12 April 2025
-#### Latitude: 33°29'02.8"N 
-#### Longitude: 117°44'00.2"W
-#### Dive Number: 139
+# Dive 140: Empire Reef, Catalina, CA, USA
+#### Date: 3 August 2025
+#### Latitude: 33°25'44.8"N  
+#### Longitude: 118°26'09.6"W
+#### Dive Number: 140
 #### Overview
-##### Type: Ocean, Boat Dive (Makai Mist)
-##### Partner: Tobias N.
+##### Type: Ocean, Boat Dive (SunDiver)
+##### Partner: Asher N.
 
-Challenging dive, however, Tobias speared his first fish! Initially tried to dive Three Arch Bay but could not anchor safely becasue of swell and rocky lee shore. Relocated to Monarch Beach and anchored in 35 feet of water. Medium swell. Entered in sandy and rocky bottom with very poor visibility. Strong surge. Regulator free-flowing until I could get sensitivity valve adjusted. Visibility less than 1m, lower in portions near the northerly reef near sand/ rock interface. Dangerous conditions with surge pushing us onto unseen rocks. Some unseen/ unknown overheads became very dangerous. Very challenging dive. Near the end of the dive, as we headed southeast to return to the boat, came to an area with improved visibility. Tobias spent the latter portion of the dive in this area hunting. At one point we becase separated becasue of surge and poor visibility. I back-tracked and we were able to reconnect. Tobias speared a legal Sandbass under a rock outcropping and we ended the dive. Ultimately a good dive with seriously challenging conditions. 
+Nice dive along a shallow reef with stretches of sand. Asher's 3rd Open Water dive. Good kelp. Octopus, small halibut, lobsters. Small school of bait fish transit across and suround us on the give. Asher did great on air and has excellent buoyancy control. Good site, would return for it's approachability, structure, and wildlife.
 
+Slightly overweighted.
 
 #### Dive Details 
-##### [Dive Video](https://www.youtube.com/watch?v=xmjx126PUHY&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xmjx126PUHY?si=7Q2rSjlOEEvHiXgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | | |
 |-----|-----|
-| Maximum Depth:     | 9.4 meters |
-| Bottom Time:       | 44 minutes | 
+| Maximum Depth:     | 9.2 meters |
+| Bottom Time:       | 43 minutes | 
 | Dive Computer:     | Yes | <!--Yes, No-->
-| Starting Pressure: | 200 bar | 
-| Ending Pressure:   | 50 bar | 
+| Starting Pressure: | 180 bar | 
+| Ending Pressure:   | 75 bar | 
 
 #### Conditions
 
 | | |
 |-----|-----|
-| Visibility:          | 0.5 meters |
+| Visibility:          | 8 meters |
 | Waves:               | None | <!--None, Small, Medium, Large-->
-| Current:             | Medium | <!--None, Light, Medium, Strong-->
-| Surge:               | Strong |     <!--Light, Medium, Strong-->
+| Current:             | Light | <!--None, Light, Medium, Strong-->
+| Surge:               | Light |     <!--Light, Medium, Strong-->
 | Weather:             | Partly Cloudy |  <!--Sunny, Partly Cloudy, Cloudy, Rainy, Windy, Foggy-->
 | Air Temperature:     | 22°C | 
 | Surface Temperature: | 21°C | 
-| Bottom Temperature:  | 20°C | 
+| Bottom Temperature:  | 21°C | 
 
 #### Eqipment 
 
@@ -46,4 +46,4 @@ Challenging dive, however, Tobias speared his first fish! Initially tried to div
 |-----|-----|
 | Tank:    | Aluminum 80 |
 | Weight:  | 24 lbs | 
-| Wetsuit: | Farmer John, Spring Shorty, Booties | 
+| Wetsuit: | Farmer John, Spring Shorty, Booties, Gloves | 
