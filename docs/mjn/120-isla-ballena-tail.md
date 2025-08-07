@@ -4,7 +4,7 @@ tags:
     - Baja California Sur
     - Isla Espiritu Santo
 ---
-# Dive 142: Isla Ballen Tail, Isla Espiritu Santo, BCS, MEX
+# Dive 120: Isla Ballen Tail, Isla Espiritu Santo, BCS, MEX
 #### Date: 22 June 2023
 #### Latitude: 24°29'01.2"N  
 #### Longitude: 110°24'31.9"W
@@ -12,6 +12,8 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Panga)
 ##### Partner: Tobias N.
+
+*Tail of the Whale: Tranquillo*
 
 Dove the western tail of Isla Ballena, a small island just south of Ensenada Candelero. Max depth 17.2 meters, bottom temperature 25 degrees. Landed in jumbled rocks, moving west along the sand-rock interface. Large school of Cortez Sea Chubs moving to deep water. Many nudibranchs, at least 4 types. Tobias observes a nudibranch, which is wrapped around a piece of seaweed, attack its own tail, extending its mouth onto itself. Giant Hawkfish. Green Eeels. First part of the dive progresses like a cool sub-tropical Pacific dive, jumbled rocks, sea stars, sea cucuumbers. As we ascend from 15 meters to 10 meters we pass through a sharp thermocline, schlerring, and the entire ecosystem transitions to a tropical environemnt, replete with colorful schools of fish and sand flats dotted by rocky outcrops. Stong current transitions the dive into a drift dive and we float, soar, along the sand flats observing the tropical aquarium.
 
