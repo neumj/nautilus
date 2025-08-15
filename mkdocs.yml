@@ -63,10 +63,11 @@ extra:
 nav:
     - Home: index.md
     - AJN:
-       - Dive 5 - Africa Cove: ajn/5-africa-cove.md
-       - Dive 4 - Rusty Shed: ajn/4-rusty-shed.md
-       - Dive 3 - Empire Reef: ajn/3-empire-reef.md
-   
+      - Dive 5 - Africa Cove: ajn/5-africa-cove.md
+      - Dive 4 - Rusty Shed: ajn/4-rusty-shed.md
+      - Dive 3 - Empire Reef: ajn/3-empire-reef.md
+      - Dive 2 - Heisler Park: ajn/2-heisler-cove.md
+      - Dive 1 - Heisler Park: ajn/1-heisler-cove.md
     - MJN:
       - Dive 142 - Africa Cove: mjn/142-africa-cove.md
       - Dive 141 - Rusty Shed: mjn/141-rusty-shed.md
