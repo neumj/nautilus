@@ -20,6 +20,8 @@ Slightly overweighted.
 Surface Interval: 1h 8m
 
 #### Dive Details 
+##### [Dive Video](https://www.youtube.com/watch?v=poZpxCAztuU&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poZpxCAztuU?si=mIFQoKQ_-qpQVarS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | | |
 |-----|-----|

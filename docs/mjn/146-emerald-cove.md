@@ -16,6 +16,8 @@ tags:
 Nice dive along rock and sand interface mixed with kelp. Lots of rocky structure. Tobias led the dive. Well done. Fun to video the family on a family dive. Many fish, lobsters. Morray eel. This is a very enjoyable dive with lots of structure and biota. 
 
 #### Dive Details 
+##### [Dive Video](https://www.youtube.com/watch?v=poZpxCAztuU&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poZpxCAztuU?si=mIFQoKQ_-qpQVarS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | | |
 |-----|-----|
