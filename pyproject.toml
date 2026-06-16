@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "cortez"
+name = "nautilus"
 version = "0.0.1"
-description = "MKDocs site. Sea of Cortez trip."
+description = "MKDocs site. Dive Logs."
 authors = ["MJN <neumann.mj@gmail.com>"]
 
 [tool.poetry.dependencies]
