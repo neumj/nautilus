@@ -64,4 +64,4 @@ conda activate defcon
 
 mkdocs serve
 mkdocs gh-deploy
-https://neumj.github.io/nautilis/
+https://neumj.github.io/nautilus/
