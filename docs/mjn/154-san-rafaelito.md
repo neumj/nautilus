@@ -11,10 +11,11 @@ tags:
 #### Dive Number: 154
 #### Overview
 ##### Type: Ocean, Boat Dive (Panga)
-##### Partner: Amy R.
+##### Partner: Tobias G.
 
 
 Dove Lobera San Rafaelito, a small rocky outcrop outside of La Paz. Increasingly this is a known colony and rookery for sea lions. We ended up at this location becasue of wind and sea conditions. I get the sense this was not a normal location in the dive rotation but is a popular snorkeling tourist trip location. Shallow entry in 3 meters. Max depth 10 meters. Decent amount of live coral. Location exceeds expectations with coral and fish diversity. Circumnavigation. Fun sea lion interaction near the end of the dive. Fun, easy, dive. Sursprised by the amount of live coral on such a heavily trafficed location.
+- AJN, ALR
 
 
 #### Dive Details 

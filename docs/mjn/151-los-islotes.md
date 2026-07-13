@@ -13,7 +13,8 @@ tags:
 ##### Type: Ocean, Boat Dive (Panga)
 ##### Partner: Asher N.
 
-Dove the sea lion rookery and colony at Los Islotes off the north end of Isla Partida. Max depth 13.2 meters, bottom temperature 22 degrees. Very fun dive. Beautiful, morning, 90-minute boat ride from La Paz to Isla Espiritu Santo to Isla Partida and then the small rocky islands of Los Islotes. Entered and landed in mixed sand and rocky bottom at 5m. Southward transit and asent to about 3 meters where we entered an underwater canyon-gap that alllowed swim pass-through to the south side of the island. Max bottom depth in the canyon. Many fish, soft and hard corals. Decent current running through the canyon gap. Could have spent the entire dive exploring the cut-through. Exited to the southern side of the island, rocky bottom, many fish. Sea lions! Good brief encouter near the end of the dive!  
+Dove the sea lion rookery and colony at Los Islotes off the north end of Isla Partida. Max depth 13.2 meters, bottom temperature 22 degrees. Very fun dive. Beautiful, morning, 90-minute boat ride from La Paz to Isla Espiritu Santo to Isla Partida and then the small rocky islands of Los Islotes. Entered and landed in mixed sand and rocky bottom at 5m. Southward transit and asent to about 3 meters where we entered an underwater canyon-gap that alllowed swim pass-through to the south side of the island. Max bottom depth in the canyon. Many fish, soft and hard corals. Decent current running through the canyon gap. Could have spent the entire dive exploring the cut-through. Exited to the southern side of the island, rocky bottom, many fish. Sea lions! Good brief encouter near the end of the dive!
+- ALR, TGN
 
 #### Dive Details 
 ##### [Dive Video](https://www.youtube.com/watch?v=xmjx126PUHY&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)

@@ -11,9 +11,10 @@ tags:
 #### Dive Number: 155
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
-##### Partner: Asher N.
+##### Partner: Amy R.
 
 Nice dive in Ripper's Cove. Easy first dive of the Catalina season. No issues. Very enjoyable. Many fish. Excellent visibility. Descend to sand flats then northwest to deep sand at 18 meters, then southwest to fringing rock reef. Transited along rock/ sand interface at 9 meters for most of the dive. Many lobsters, one HUGE lobster. Leisurely, rewarding, dive that is very approachable. Dove the western part of Ripper's Cove at the point of the cove toward Empire Landing. Good diving from Asher, Amy, Tobais.
+- AJN, TGN
 
 #### Dive Details 
 

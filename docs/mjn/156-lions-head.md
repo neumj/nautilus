@@ -11,9 +11,11 @@ tags:
 #### Dive Number: 156
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
-##### Partner: Amy R.
+##### Partner: Asher N.
 
 Great dive. Entered the water, descending to sandy bottom at 12m. East South-East along the sand bottom to sand and rocky bottom and outcrops at 22m. Many large fish at 20m, Kelp Bass and Sheephead. 3 beautiful nudibranchs, deep navy body and bright yellow-orange spots. 2 appeared to be mating, one watching. Voyeur! Think they might have been California Chromodorid (Felimare californiensis). Slowly turned West North-West into shallower water. Bold, rocky outcrops, very beautiful. Through a small canyon in the outcrops to 12 meters. Beautiful sea-stars, many lobsters, Blue-Banded Gobys. Ended the dive in the kelp forest west of Lion's Head point. Brief encounter with a Sea Lion. Great dive!
+- ALR, TGN
+
 
 #### Dive Details 
 
