@@ -19,7 +19,7 @@ Dove the sea lion rookery and colony at Los Islotes off the north end of Isla Pa
 
 #### Dive Details 
 ##### [Dive Video](https://www.youtube.com/watch?v=2dvN4A26tSc)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2dvN4A26tSc?si=Bh2-qJNhw9NdB9uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dvN4A26tSc?si=Vo3dfIz6u21OSPcT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | | |
 |-----|-----|
