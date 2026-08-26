@@ -3,6 +3,7 @@ tags:
     - United States
     - California
     - Catalina
+    - Video
 ---
 # Dive 158: Emerald Cove, Catalina, CA, USA
 #### Date: 25 July 2026
@@ -17,6 +18,8 @@ Another fantastic/ insane dive. Absolutley phenomenal visibility. Good water tem
 - ALR, TGN
 
 #### Dive Details 
+##### [Dive Video](https://www.youtube.com/watch?v=fG_VfIuBr9Y&t=12s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fG_VfIuBr9Y?si=tjmiRgIT8ycD4wXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | | |
 |-----|-----|

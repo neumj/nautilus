@@ -3,6 +3,7 @@ tags:
     - Mexico
     - Baja California Sur
     - Isla Partida
+    - Video
 ---
 # Dive 151: Los Islotes, Isla Partida, BCS, MEX
 #### Date: 13 February 2026
@@ -17,8 +18,8 @@ Dove the sea lion rookery and colony at Los Islotes off the north end of Isla Pa
 - ALR, TGN
 
 #### Dive Details 
-##### [Dive Video](https://www.youtube.com/watch?v=xmjx126PUHY&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xmjx126PUHY?si=7Q2rSjlOEEvHiXgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+##### [Dive Video](https://www.youtube.com/watch?v=2dvN4A26tSc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dvN4A26tSc?si=Bh2-qJNhw9NdB9uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | | |
 |-----|-----|

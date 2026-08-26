@@ -4,7 +4,7 @@ tags:
     - Baja California Sur
     - Isla Espiritu Santo
 ---
-# Dive 153: Isla Ballen Tail, Isla Espiritu Santo, BCS, MEX
+# Dive 153: Isla Ballena Tail, Isla Espiritu Santo, BCS, MEX
 #### Date: 14 February 2026
 #### Latitude: 24°29'01.2"N  
 #### Longitude: 110°24'31.9"W
@@ -17,8 +17,7 @@ Dove the southwestern tail of Isla Ballena, a small island just south of Ensenad
 - AJN, TGN
 
 #### Dive Details 
-##### [Dive Video](https://www.youtube.com/watch?v=xmjx126PUHY&list=PLuP0i-DXKHYBjIOv9zXRlLO9S_dfo8uDJ)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xmjx126PUHY?si=7Q2rSjlOEEvHiXgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 | | |
 |-----|-----|

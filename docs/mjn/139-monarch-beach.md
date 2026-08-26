@@ -2,6 +2,7 @@
 tags:
     - United States
     - California
+    - Video
 ---
 # Dive 139: Monarch Beach, Dana Point, CA, USA
 #### Date: 12 April 2025

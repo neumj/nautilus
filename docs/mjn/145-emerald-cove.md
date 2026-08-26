@@ -3,6 +3,7 @@ tags:
     - United States
     - California
     - Catalina
+    - Video
 ---
 # Dive 145: Emerald Cove (West), Catalina, CA, USA
 #### Date: 15 August 2025

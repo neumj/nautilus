@@ -3,6 +3,7 @@ tags:
     - United States
     - California
     - Catalina
+    - Video
 ---
 # Dive 138: Long Point, Catalina, CA, USA
 #### Date: 12 April 2025
