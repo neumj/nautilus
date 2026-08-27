@@ -18,7 +18,7 @@ Dove the southwestern tail of Isla Ballena, a small island just south of Ensenad
 - AJN, TGN
 
 #### Dive Details 
-[Dive Video](https://www.youtube.com/watch?v=z86xGFC1V-s)
+##### [Dive Video](https://www.youtube.com/watch?v=z86xGFC1V-s)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z86xGFC1V-s?si=kztME9vDcTzdvAry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | | |
