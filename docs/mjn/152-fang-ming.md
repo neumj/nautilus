@@ -3,6 +3,7 @@ tags:
     - Mexico
     - Baja California Sur
     - Isla Espiritu Santo
+    - Video
 ---
 # Dive 152: Fang Ming, Isla Espiritu Santo, BCS, MEX
 #### Date: 13 February 2026
@@ -18,6 +19,9 @@ Return to the Fang Ming! Dove the Fang Ming, a Chinese fishing trawler that was 
 - ALR, TGN
 
 #### Dive Details 
+##### [Dive Video](https://www.youtube.com/watch?v=_lxDz16MDNk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_lxDz16MDNk?si=UdphQajJJ1b5Z7hS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 | | |
 |-----|-----|
