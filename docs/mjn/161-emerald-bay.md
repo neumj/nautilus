@@ -15,6 +15,7 @@ tags:
 ##### Partner: Asher N.
 
 Another solid dive in Emerald Bay. Boat moored on R-7. Descend to sandy bottom then north across the reef to the seaward side of the structure. Some very cold patches of water rolling through the entire dive. Sighted 4 horned sharks, one in the open sand. Good sea-life. Huge lobsters. Continued east to maximum depth of 14.6 meters and then ascending and navigate around Indian Rock. More Horned Sharks. Lobsters. Many fish. Less kelp than the dives in July. Some very large kelp bass. The geology of the site is world class. Very beautiful, solid dive.
+
 - TGN
 
 #### Dive Details 
