@@ -15,6 +15,7 @@ tags:
 ##### Partner: Amy R.  
 
 Dove the southwestern tail of Isla Ballena, a small island just south of Ensenada Candelero. Max depth 18.9 meters, bottom temperature 22 degrees. Previously (2023) dove the northwestern section. Landed in jumbled rocks, moving west along the sand-rock interface. Good amount of fish. Many sea-stars. Several green morray eels. Nice, easy, dive. Much of the rock reef is silt covered. Highlight of the dive was spotting a Seahorse! Good dive. 
+
 - AJN, TGN
 
 #### Dive Details 

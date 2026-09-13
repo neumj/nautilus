@@ -15,6 +15,7 @@ tags:
 ##### Partner: Asher N.
 
 Another fantastic/ insane dive. Absolutley phenomenal visibility. Good water temperatures. Boat moored on R-16. Descend to sandy bottom then east and north around Indian Rock. Asher wanted to spend a good length of time in one location, which is one of my favorite dive profiles. Found a rocky overlook onto the reef and deep kelp beyond. Moored in 13 meters of water and observed for approximately 12 minutes. Lot's of activity develops on the reef that you miss in a typical dive profile. Lots of fish, many very curious as we stayed longer. Then moved deeper to 22 meters. Bonkers visibility. Huge, towering kelp. Spotted a large ray. Tobias and Amy encounter a large Black Sea Bass at 20 meters. Good horned shark ineraction at the end of the dive. Top dive. Very beautiful.
+
 - ALR, TGN
 
 #### Dive Details 

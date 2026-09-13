@@ -14,6 +14,7 @@ tags:
 ##### Partner: Tobias N.
 
 Good dive. Entered the water, descending to rocky and sandy bottom at 22.9 meters. Extremely poor visibility while descending the anchor line heading SSW. Thick tubidity and biomass reduced visibility to less than 2 meters. Considered aborting the dive. Visibility improved to ~3 meters at bottom depth. Headed SSW to WSW into ~12 meters of water. Visibility significantly improved. Slowly trended W into shallower water. Kelp forest and bold, rocky outcrops, very beautiful. Many lobsters, fish, severel Horn Sharks, Morray Eeels. Circled back, ending the dive in the kelp forest west of Lion's Head point. 
+
 - AJN, ALR
 
 #### Dive Details 
