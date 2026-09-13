@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (SunDiver)
 ##### Partner: Amy N.
+##### Participants: MJN, ALR, AJN, TGN
 
 Kelp Forest dive. Thick, well channeled kelp. Classic, beautiful kelp dive. Nice dive with good visibilty and many large fish. Lobsters. Many cold lobes of water that were unexpected. Toward the end of the dive tried to move the group above the thermocline and got separated in thick kelp forest. Looked for Amy, Asher, and Tobias for 2 minutes, was about to surface and then foud them. Everyone followed stated separated dive buddy procedures. Well done. 
 

@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Iconic dive near Blue Cavern Point, SSE of the point. Down the anchor line to 29 meters. NNW along the deep sand/ kelp line to the rock wall SSE of Blue Cavern Point. Excellent visibility, many fish. Was hoping to see some big pelagics, did not materialize. Water warmer than expected. Once to the rock wall, ascended to the rich kelp forest and SSE through the kelp and rocks back to the boat. Perfect navigation. Had we seen some big pelagics, would have been a top 5 dive. Great dive, iconic kelp forest, Catalina dive. Love.
 

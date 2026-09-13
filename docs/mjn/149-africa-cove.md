@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Asher N.
+##### Participants: MJN, AJN, ALR, TGN
 
 
 Classic, beautiful kelp dive. Very good visibility. Dove the western part of the cove. Initially was looking for the "pinnacles" of Africa Cove, but now believe they may be on the east side of the cove. Many lobsters. Horned Shark. Kelp much thinner than when we did this dive in August, typical late season thinning. Nice dive with excellent visibilty and many large fish. Good diving from Tobias, Asher, and Amy. Asher had a leaking regulator, that became problematic at the end of the dive. No safeyy concern.  

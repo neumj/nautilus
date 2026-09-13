@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN, AJN, ALR
 
 Very nice dive in Ripper's Cove. Very enjoyable. Many, many fish. Excellent visibility. Descend to sand flats then west to fringing rock reef. Transited along rock/ sand interface at 9 meters for most of the dive. Many lobsters. Horned Shark. Brief sighting of a larger shark moving from the reef edge to deep water along the sand, could have been a Leopard Shark, moving very fast. Leisurely, rewarding, dive that is very approachable. Dove the western part of Ripper's Cove at the point of the cove toward Empire Landing. Good diving from Asher, Amy, Tobais.
 

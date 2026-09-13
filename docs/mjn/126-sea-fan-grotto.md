@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Low pressure hose on my octo failed right before entering the water. I had swapped the hose onto my rig after Tobias had noted a slight leak from the hose when it was on his regulator the night before. Yikes. Removed my octo, plugged the port and dove with no back-up second stage.
 

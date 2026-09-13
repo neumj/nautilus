@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Good dive. Entered at Pirates Cove in sandy bottom and moved NE to the rocky aggregates and kelp of Long Point. Poor visibility in Pirates Cove. Improved visibility on the seaward side of Long Point. Nice dive through the kelp forests. HUGE Mola Mola that we surprised coming out of the kelp and because of poor visibility. Many fish.
 

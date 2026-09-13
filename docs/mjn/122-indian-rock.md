@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Nice dive around Indian Rock in Emerald Bay, Catalina. First boat dive off of Makai Mist, moored in closest row to Indian Rock, 2nd slot in from eastern most mooring. Transited counter-clockwise around Indian Rock, ending back at the boat. Excellent kelp forest, truly felt like a forest, with room to navigate at the base and a towering, full canopy above. Many typical fish, some very aggressive Garibaldi. Shark egg case. Diverse geology, sand, rock reef, jumbled rocks.
 

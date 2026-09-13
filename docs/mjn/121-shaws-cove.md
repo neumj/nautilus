@@ -11,6 +11,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Shore Dive
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Shaw's Cove Roller Coaster
 

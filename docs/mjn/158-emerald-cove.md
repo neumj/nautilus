@@ -12,10 +12,10 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Amy R.
+##### Participants: MJN, ALR, AJN, TGN
 
 Fantastic dive! Absolutley insane visibility. Good water temperatures. Boat moored on R-8. Descend to sandy bottom then north across the reef to the seaward side of the structure. Spotted a horned shark cruising the reef and had a 5-minute interaction where it swam between us as we stayed calm and motionless in the rocky structure. Literally swam up and touched both Asher's and Tobias' masks and hands. Continued east to maximum depth of 15.4 meters and then ascending and navigate around Indian Rock. More Horned Sharks. Lobsters. Many fish. Huge, lonmg kelp. Very aggresive Garibaldi. Free-diving California Game Warden surpises us near the end of the dive. Excellent navigation, ended directly under the boat. Top dive. Very beautiful.
 
-- AJN, TGN
 
 #### Dive Details 
 

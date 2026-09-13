@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Night dive. My dive light failed in the first minutes of the dive. Switched to back-up light. Tobias' light then failed 5 minutes into the dive. Aborted the dive. Surfaced. Changed batteries and proceeded on a separate dive with back-up lights.
 

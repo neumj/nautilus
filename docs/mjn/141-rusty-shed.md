@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (SunDiver)
 ##### Partner: Asher N.
+##### Participants: MJN, AJN
 
 Kelp Forest dive. Heavy, stringy, kelp that was, at times, hard to navigate. Nice dive with good visibilty and many large Sheepshead and Calico Bass. Very large Calico at the end of the dive. Octopus. Site located in the Blue Cavern MPA. Asher handled the kelp extremely well even as it was snagging and impeding his motion.   
 

@@ -13,6 +13,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Asher N.
+##### Participants: MJN, AJN, ALR, TGN
 
 Nice dive along rock and sand interface mixed with kelp. Lots of rocky structure. Tobias led the dive. Well done. Fun to video the family on a family dive. Many fish, lobsters. Morray eel. This is a very enjoyable dive with lots of structure and biota. 
 

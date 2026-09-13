@@ -13,10 +13,10 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN, AJN
 
 Absolutely insane dive on Eagle Reef. Clearest, deepest blue water, I have every seen on the island. Greater than 20 meter visibility. Anchored in heavy reain just south of the red marker buoy. Descended anchor line then moved west, ultimately circling back to the anchor line to end the dive. Nice navigation. Thousands, thousands, of fish. School of Jack Mackeral throughout the dive. Amazing interaction and experience to be in the bait ball. Yellow Tail! Great reef structure and geology. First 30 meter plus dive for AJN. Not only abundant sealife, but treasure. AJN found a complete weight belt with a quality dive knife that we have restored to bristol state. 2 GIANT Black Sea Bass emerge from the depths and cruise through the reef. Amazing, world class, dive. 
 
-- AJN
 
 #### Dive Details 
 ##### [Dive Video](https://www.youtube.com/watch?v=naFgUH79Z2w)

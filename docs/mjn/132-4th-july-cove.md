@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Valley of ashes. Strangely odd dive along the reefs/ wall between 4th of July Cove and Cherry Cove. Much marine snow gave the dive an eery feeling, giving a feeling of valley of ashes. Given the proximity to 4th of July Cove and Cherry Cove, there was also a lot of odd sounds from boat noise. Many large fish, that we were able to surprise becasue of the limited visibility. Horned Shark, many lobsters. Good stands of kelp. Strong thermocline at 18m. 
 

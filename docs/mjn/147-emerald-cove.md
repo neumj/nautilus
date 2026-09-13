@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Pole-spear hunting with Tobias along the mooring-side of West Emerald Cove reef. Using remainder of air from previosu dive. Took several shots without luck. @ large Kelp Bass, non to be speared.
 

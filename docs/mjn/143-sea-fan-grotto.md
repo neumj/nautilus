@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (SunDiver)
 ##### Partner: Asher N.
+##### Participants: MJN, AJN, ALR, TGN
 
 First Family Dive! Kelp Forest dive transitioning to a wall dive that then descends into a gorgonian sea fan, rocky, grotto with overhead.Very nice dive with good visibilty and many large fish. Generally a very good area for with multiple dive sites east of Blue Cavern Point. One of my favorite areas on the isalnd for diving. This was a long swim from the boat anchorage, folks low on air at the end of the dive, yielding a long return surface swim. Amy's first dive on over a year. She did great. Both Asher and Tobias did great on the dive. 
 

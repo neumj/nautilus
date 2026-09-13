@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Night dive. Dove using backup lights after aborting initial dive because of 2 failed dive lights. Tobias' first night dive which he handled like a pro, even in the face of a failed dive light leaving him in the dark. Good dive along the eastern end of Indian Rock, then moving west through kelp beds and rocky substrate. Many urchins, lobsters, and zooplankton. Rockfish. Octopus. Surfaced to a beautiful night sky, Orion directly overhead. Excellent dive. Grateful for these experiences with Tobias.
 

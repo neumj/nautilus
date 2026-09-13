@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN, DP, JP
 
 Good dive. Entered at Pirates Cove in sandy bottom and moved NE to the rocky aggregates and kelp of Long Point. From the turn at Long Point, headed NW at about 18m before ascending and returning at approximately 12m. Many fish, some large kelp and sand bass, sheepshead. Lobsters. Good visibility. Thick kelp.Very strong current on return at the turn from Long Point to Pirates Cove. Danny P. and Joel P. joined on the dive, was nervous to have an expanded crew. They did great. Solid divers, nice to have them along.
 

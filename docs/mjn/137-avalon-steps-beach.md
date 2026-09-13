@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Beach Dive
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Dive in suport of the annual Avalon Harbor Underwater Cleanup. First dive of the season. Pulled approximtely 11 ponds of trash from the harbor bottom. Larger items: PFD storage bag, scuba mask and snorkel, dock line, cans and bottles. Issue with my low pressure actuator being stuck open at the begining of the dive. Lkely was salt as it cleared after removing and replacing the button. Octo was also slowly free-flowing. Dove on the octo vice the primary in order to not have to abort the dive. Lost a lot of air in the begining and through the dive becasue of these issues. Many large nudibranchs, interesting to see them in the harbor. Lots of bait fish.  
 

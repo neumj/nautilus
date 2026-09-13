@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Challenging dive, however, Tobias speared his first fish! Initially tried to dive Three Arch Bay but could not anchor safely becasue of swell and rocky lee shore. Relocated to Monarch Beach and anchored in 35 feet of water. Medium swell. Entered in sandy and rocky bottom with very poor visibility. Strong surge. Regulator free-flowing until I could get sensitivity valve adjusted. Visibility less than 1m, lower in portions near the northerly reef near sand/ rock interface. Dangerous conditions with surge pushing us onto unseen rocks. Some unseen/ unknown overheads became very dangerous. Very challenging dive. Near the end of the dive, as we headed southeast to return to the boat, came to an area with improved visibility. Tobias spent the latter portion of the dive in this area hunting. At one point we becase separated becasue of surge and poor visibility. I back-tracked and we were able to reconnect. Tobias speared a legal Sandbass under a rock outcropping and we ended the dive. Ultimately a good dive with seriously challenging conditions. 
 

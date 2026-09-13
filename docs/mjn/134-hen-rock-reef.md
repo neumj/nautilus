@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN, DP, JP
 
 Good dive from along the outcrops of Hen Rock Reef. Poor visibility. Anchored in 18m of water. Hit sandy bottom at 18m and could not see the reef, headed SSE eventually finding the string of rocky outcrops. Alternating rocky outcrops and sand flats. Many, many, fish. Good kelp. Lobsters. Kelp and Sand Bass. Giant Black Sea Bass. Poor visibility made it difficult to keep track of the entire dive crew. Unable to locate the wreck and swim-throughs that are claimed at this site. Danny P. and Joel P. joined on the dive. Solid divers, nice to have them along. 
 

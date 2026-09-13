@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Great dive. Entered the water, descending to sandy bottom in about 11m. Northward into kelp forest and rocky bottom grading deeper. Slowly turned west as we rounded Lion's Head. At depth, encountered large flat kelp laying on bottom. Tobias spotted 2 large spider crabs under the kelp and under a rock. As one came out from under the kelp so did a small Horn Shark, who settled on the kelp while we curiously investigated it. Moving west, encountered a large Lion's Mane Jellyfish ensnared in kelp. Further west, a school of 100's of Baracuda streamed by us as we floated mid-water. Began return, heading east, encounter a Morray Eel and Spiny Lobster. Very good dive. 
 

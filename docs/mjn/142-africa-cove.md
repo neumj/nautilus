@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (SunDiver)
 ##### Partner: Asher N.
+##### Participants: MJN, AJN
 
 Kelp Forest dive. Thick, well channeled kelp. Classic, beautiful kelp dive. Nice dive with good visibilty and many large fish. Lobsters. Octopus. Asher handled the kelp like a pro and demonstrated some excellent buoyancy control. 
 

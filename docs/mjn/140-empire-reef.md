@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (SunDiver)
 ##### Partner: Asher N.
+##### Participants: MJN, AJN
 
 Nice dive along a shallow reef with stretches of sand. Asher's 3rd Open Water dive. Good kelp. Octopus, small halibut, lobsters. Small school of bait fish transit across and suround us on the give. Asher did great on air and has excellent buoyancy control. Good site, would return for it's approachability, structure, and wildlife.
 

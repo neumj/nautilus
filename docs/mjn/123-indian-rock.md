@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Second dive of the day in Indian Rock in Emerald Bay, Catalina. Another very good dive. Great dive site with varying ecosystems from sandy bottom to towering kelp forest to rock walled reef to jumbled rock and mixed sand. Good abundance of fish. Shark egg case. Pacific octopus putting on a show!
 

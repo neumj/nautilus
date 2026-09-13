@@ -13,6 +13,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (SunDiver)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN, AJN, ALR
 
 Nice dive along rock and sand interface mixed with kelp. Lots of rocky structure. Tobias led the dive. Well done. Fun to video the family on a family dive. Many fish, lobsters. Amy spots a Horned Shark at the end of the dive. Many lobsters in the hole with the Horned Shark.
 

@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Good dive from 10m to 23.5m along the outcrops of Hen Rock Reef. Anchored in 10m of water and headed SSE. Alternating rocky outcrops and sand flats. Many, many, fish. Good kelp. Lots of fishing line snagged on the outcrops, burned a ton of air removing line. Giant Black Sea Bass. Sea Lions at the begining of the dive that did not engage. Very nice dive. 
 

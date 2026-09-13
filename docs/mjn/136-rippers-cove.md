@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Easy dive in Ripper's cove. Very enjoyable. Descend to sand flats then west to fringing rock reef. Transited along rock/ sand interface at 8 meters for most of the dive. Great visibility, many, many fish. On return, transited between 4 to 8 meters along the top of the reef. Many lobsters. Pacific octopus. leisurely, rewarding, dive that is very approachable. Will revisit. 
 

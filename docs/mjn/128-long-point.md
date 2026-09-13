@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Makai Mist)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 Good dive. Entered at Pirates Cove in sandy bottom and moved NE to the rocky aggregates and kelp of Long Point. Deep to 30.5 meters at the first canyon then moving shallower heading west. Sea Lion, many fish.
 

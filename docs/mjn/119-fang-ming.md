@@ -12,6 +12,7 @@ tags:
 #### Overview
 ##### Type: Ocean, Boat Dive (Panga)
 ##### Partner: Tobias N.
+##### Participants: MJN, TGN
 
 *Fang Ming: Revenge of the Tortugas*
 
